@@ -1,0 +1,1 @@
+Plataforma interativa de Ecoturismo na América do Sul. Exibe destinos como Patagônia e Amazônia em cards dinâmicos (via JSON). Possui busca otimizada e em tempo real (usando JavaScript e debounce) que filtra por país, local ou tipo de aventura. Foco em viagens sustentáveis e experiências na natureza.
