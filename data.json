@@ -1,0 +1,98 @@
+[
+    {
+        "pais": "Argentina",
+        "local": "El Chaltén, Patagônia",
+        "tipo": "Trekking, Natureza, Aventura",
+        "imagem": "https://tupermitidodesiempre.com.ar/download/multimedia.grande.948cba9f182d1ca0.4c6167756e61206465206c6f7320547265732028456c204368616c74c3a96e295f6772616e64652e6a7067.jpg",
+        "descricao": "A capital do trekking na Argentina. Trilhas espetaculares como Fitz Roy e Cerro Torre, promovendo o ecoturismo e o contato com a natureza selvagem.",
+        "link": "https://www.elchalten.com/"
+    },
+    {
+        "pais": "Bolívia",
+        "local": "Salar de Uyuni",
+        "tipo": "Natureza, Fotografia",
+        "imagem": "https://tse1.explicit.bing.net/th/id/OIP.-I7-O8OxnqtVZCeF4jShMwHaEK?rs=1&pid=ImgDetMain&o=7&rm=3",
+        "descricao": "Explore o maior deserto de sal do mundo. Uma experiência visual única que apoia guias e comunidades locais.",
+        "link": "https://www.turismo.produccion.gob.bo/"
+    },
+    {
+        "pais": "Brasil",
+        "local": "Amazônia, Manaus",
+        "tipo": "Ecoturismo, Cultura, Vida Selvagem",
+        "imagem": "https://www.adventureclub.com.br/wp-content/uploads/2022/05/Amazonia-topo.jpg",
+        "descricao": "Hospede-se em hotéis de selva e explore a floresta com guias nativos. Uma imersão profunda na maior biodiversidade do planeta.",
+        "link": "https://visitbrasil.com/pt/experience/amazonia/"
+    },
+    {
+        "pais": "Chile",
+        "local": "Deserto do Atacama",
+        "tipo": "Astronomia, Natureza, Aventura",
+        "imagem": "https://images.unsplash.com/photo-1551632811-561732d1e306?q=80&w=870",
+        "descricao": "O deserto mais árido do mundo. Contemple estrelas em céus limpíssimos, explore gêiseres e lagoas altiplânicas.",
+        "link": "https://www.chile.travel/pt-br/onde-ir/macrozona/norte-e-deserto-de-atacama/"
+    },
+    {
+        "pais": "Colômbia",
+        "local": "Cidade Perdida, Sierra Nevada",
+        "tipo": "Trekking, Arqueologia, Cultura",
+        "imagem": "https://lajorara.com/wp-content/uploads/2020/05/Header-image-Ciudad-Perdida-Tour-con-Unqiue-Colombia-y-La-Jorara-Hotel.jpg",
+        "descricao": "Uma trilha de vários dias pela selva com guias indígenas até as ruínas de uma antiga cidade Tayrona. Uma jornada espiritual e física.",
+        "link": "https://colombia.travel/pt/blog/sierra-nevada-de-santa-marta-terra-de-neve-e-indigenas" 
+    },
+    {
+        "pais": "Equador",
+        "local": "Ilhas Galápagos",
+        "tipo": "Vida Selvagem, Ecoturismo, Mergulho",
+        "imagem": "https://www.travelandleisure.com/thmb/WzL019sDotA4SIo4bacRrE4j_N0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/galapagos-islands-ecuador-GALAPA1104-d013219debf14369ab5039a4eafb496e.jpg",
+        "descricao": "Um laboratório vivo da evolução. Mergulhe com tartarugas e leões-marinhos em um ecossistema único, onde o turismo financia a conservação.",
+        "link": "https://ecuador.travel/galapagos/"
+    },
+    {
+        "pais": "Guiana",
+        "local": "Cataratas de Kaieteur",
+        "tipo": "Natureza, Aventura, Ecoturismo",
+        "imagem": "https://th.bing.com/th/id/R.105b085c2909864634337cefaf61f556?rik=%2bFEeZI%2bdrDFiYQ&riu=http%3a%2f%2f4.bp.blogspot.com%2f-fkJCQ0o0Jk4%2fVe4J0SbqIII%2fAAAAAAAABn0%2fI6KdglMf1Fg%2fs1600%2fKaieteur2.jpg&ehk=OeehRiQ1fnACkoAgVXEDdn0PKhSlMBcyBaFjjpLcVn8%3d&risl=&pid=ImgRaw&r=0",
+        "descricao": "Descubra uma das maiores quedas d'água do mundo no coração da Amazônia. Turismo gerenciado por comunidades locais para uma experiência autêntica.",
+        "link": "https://www.guyanatourism.com/kaieteur-falls/"
+    },
+    {
+        "pais": "Paraguai",
+        "local": "Pantanal Paraguaio",
+        "tipo": "Vida Selvagem, Ecoturismo",
+        "imagem": "https://arc-anglerfish-arc2-prod-abccolor.s3.amazonaws.com/public/PO74GHMYFFA3DBUVLX262L7OWA.jpg",
+        "descricao": "Explore uma versão mais selvagem e menos visitada do Pantanal. Safáris fotográficos para observar onças-pintadas e aves raras.",
+        "link": "https://www.visitparaguay.travel/v1/pantanal-paraguayo"
+    },
+    {
+        "pais": "Peru",
+        "local": "Trilha Inca, Cusco",
+        "tipo": "História, Trekking",
+        "imagem": "https://www.go-viaggio.com/images/pays/pays-photos-800/perou-machu-picchu.jpg",
+        "descricao": "Uma jornada a pé por caminhos ancestrais até Machu Picchu. Contratar guias locais licenciados garante a preservação da trilha.",
+        "link": "https://www.peru.travel/pt/atrativos/trilha-inca"
+    },
+    {
+        "pais": "Suriname",
+        "local": "Reserva Natural do Suriname Central",
+        "tipo": "Ecoturismo, Vida Selvagem, Aventura",
+        "imagem": "https://www.naturescanner.nl/media/large/landen-1297417067.jpg?x=50&y=50",
+        "descricao": "Patrimônio Mundial da UNESCO, esta reserva protege uma vasta área de floresta tropical. Ideal para expedições e observação da vida selvagem.",
+        "link": "https://www.surinametourism.sr/central-suriname-nature-reserve/"
+    },
+    {
+        "pais": "Uruguai",
+        "local": "Cabo Polonio",
+        "tipo": "Natureza, Relaxamento, Cultura",
+        "imagem": "https://images.lonelyplanetitalia.it/static/places/cabo-polonio-4591.jpg?q=80&p=slider&s=d5676497fb472e71bd5596d8dafca251",
+        "descricao": "Uma vila de pescadores sem eletricidade, acessível apenas por veículos 4x4. Um refúgio para se desconectar e observar leões-marinhos.",
+        "link": "https://turismo.gub.uy/index.php/lugares-para-ir/departamentos/rocha/cabo-polonio"
+    },
+    {
+        "pais": "Venezuela",
+        "local": "Parque Nacional Canaima",
+        "tipo": "Natureza, Aventura, Cultura",
+        "imagem": "https://www.vtv.gob.ve/wp-content/uploads/2025/01/PARQUE-768x427.png",
+        "descricao": "Lar do Salto Ángel, a cachoeira mais alta do mundo. Explore tepuis (montanhas de topo plano) e conecte-se com a cultura indígena Pemón.",
+        "link": "https://www.venezuelatuya.com/canaima/"
+    }
+]
